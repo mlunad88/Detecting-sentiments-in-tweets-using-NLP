@@ -15,12 +15,12 @@ The objective of this work is to develop an algorithm capable of predicting emot
 
 At its core, this project is a Dash application hosted in a local web server, capable of introducing an existing user on Twitter, obtaining their latest (100-200) tweets and classifying them by emotions. It also features functions to generate word clouds and extract the intensity of each emotion in the corpus of tweets extracted.
 
-##TWITTER EMOTION ANALYZER
+## TWITTER EMOTION ANALYZER
 This is a Dash app which fetches and classifies tweets from a given username. It also generates cool visualizations from the processed data.
 
 It was our final project for the 2nd Edition Samsung Innovation Campus AI Course with the University of Málaga (UMA).
 
-##REQUIREMENTS AND VIRTUAL ENVIRONMENT
+## REQUIREMENTS AND VIRTUAL ENVIRONMENT
 
 First off, make sure you are in the project folder.
 
