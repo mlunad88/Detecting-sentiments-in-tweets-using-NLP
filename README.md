@@ -34,8 +34,9 @@ pip install -r requirements.txt
 
 ## About tweeter developer access
 You must have twitter tokens in order to have acces to get tweets trough Twitter API. More info: https://developer.twitter.com/en
-Once you have tokens and IDs you must fill variables in app.py:
-# Tweepy related variables
+
+Once you have tokens and IDs you must fill variables in app.py
+
 consumer_key = "INSERT HERE"
 consumer_secret = "INSERT HERE"
 access_token = "INSERT HERE"
