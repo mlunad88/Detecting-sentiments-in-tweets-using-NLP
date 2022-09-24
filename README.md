@@ -32,7 +32,16 @@ Once you have activated the venv (it should show in parentheses in your console)
 
 pip install -r requirements.txt
 
-RUNNING THE APP
+## About tweeter developer access
+You must have twitter tokens in order to have acces to get tweets trough Twitter API. More info: https://developer.twitter.com/en
+Once you have tokens and IDs you must fill variables in app.py:
+# Tweepy related variables
+consumer_key = "INSERT HERE"
+consumer_secret = "INSERT HERE"
+access_token = "INSERT HERE"
+access_token_secret = "INSERT HERE"
+
+## RUNNING THE APP
 
 Once the virtual environment is active and requirements are installed, run the app.py file:
 
